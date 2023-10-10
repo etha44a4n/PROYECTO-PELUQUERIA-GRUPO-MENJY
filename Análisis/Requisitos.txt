@@ -1,1 +1,0 @@
-RF1. El usuario debe ser capaz de ver la disponibilidad horaria
