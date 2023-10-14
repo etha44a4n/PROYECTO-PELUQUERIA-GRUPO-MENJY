@@ -4034,7 +4034,7 @@
 											"left": 181,
 											"top": 103,
 											"width": 50,
-											"height": 39,
+											"height": 26,
 											"text": "acceder a la web",
 											"wordWrap": true
 										},
@@ -4070,7 +4070,7 @@
 									"left": 176,
 									"top": 96,
 									"width": 60,
-									"height": 51,
+									"height": 38,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGLJq9+zYHMu7o="
 									},
@@ -4378,7 +4378,7 @@
 											"left": 221,
 											"top": 375,
 											"width": 50,
-											"height": 39,
+											"height": 26,
 											"text": "acceder a cuenta",
 											"wordWrap": true
 										},
@@ -4414,7 +4414,7 @@
 									"left": 216,
 									"top": 368,
 									"width": 60,
-									"height": 51,
+									"height": 38,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGLJrU6fIJqkFI="
 									},
@@ -14906,11 +14906,11 @@
 									},
 									"font": "Arial;13;0",
 									"left": 382,
-									"top": 388,
+									"top": 400,
 									"width": 7.22998046875,
 									"height": 13,
-									"alpha": -0.5235987755982988,
-									"distance": 25,
+									"alpha": -0.8760582521007241,
+									"distance": 15.620499351813308,
 									"hostEdge": {
 										"$ref": "AAAAAAGLK8EnGa619So="
 									},
@@ -14968,11 +14968,11 @@
 									},
 									"font": "Arial;13;0",
 									"left": 382,
-									"top": 383,
+									"top": 375,
 									"width": 7.22998046875,
 									"height": 13,
-									"alpha": 0.5235987755982988,
-									"distance": 25,
+									"alpha": 0.7086264755588975,
+									"distance": 18.439088914585774,
 									"hostEdge": {
 										"$ref": "AAAAAAGLK8EnGa619So="
 									},
@@ -19079,7 +19079,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGLK4/d6Ymsb1g="
 							},
-							"name": "contraseña"
+							"name": "contraseña",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -19087,7 +19088,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGLK4/d6Ymsb1g="
 							},
-							"name": "correo"
+							"name": "correo",
+							"type": ""
 						}
 					],
 					"operations": [
@@ -19573,7 +19575,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGLK5C+IYpgTQM="
 							},
-							"name": "año"
+							"name": "año",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
