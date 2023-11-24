@@ -8980,19 +8980,6 @@
 						},
 						{
 							"_type": "UMLNoteView",
-							"_id": "AAAAAAGL9UsLbhn8164=",
-							"_parent": {
-								"$ref": "AAAAAAGL7Q+9niSVUdg="
-							},
-							"font": "Arial;13;0",
-							"left": 288,
-							"top": 128,
-							"width": 98.03173828125,
-							"height": 64,
-							"text": "constructores implicados a no ser que cambie algo"
-						},
-						{
-							"_type": "UMLNoteView",
 							"_id": "AAAAAAGL9U0tlkyD7PU=",
 							"_parent": {
 								"$ref": "AAAAAAGL7Q+9niSVUdg="
@@ -9557,34 +9544,6 @@
 							"propertyLabel": {
 								"$ref": "AAAAAAGL9VVEP2tyKMs="
 							}
-						},
-						{
-							"_type": "UMLNoteView",
-							"_id": "AAAAAAGL9VpDjSQPaKQ=",
-							"_parent": {
-								"$ref": "AAAAAAGL7Q+9niSVUdg="
-							},
-							"font": "Arial;13;0",
-							"left": 896,
-							"top": 1328,
-							"width": 98.0380859375,
-							"height": 90,
-							"text": "no se a que se refiere con s: sinceramente pero el resto funciona"
-						},
-						{
-							"_type": "UMLNoteLinkView",
-							"_id": "AAAAAAGL9VyQJWd9c5k=",
-							"_parent": {
-								"$ref": "AAAAAAGL7Q+9niSVUdg="
-							},
-							"font": "Arial;13;0",
-							"head": {
-								"$ref": "AAAAAAGL9VPdhR+3w5Q="
-							},
-							"tail": {
-								"$ref": "AAAAAAGL9VpDjSQPaKQ="
-							},
-							"points": "993:1372;1024:1372;1024:1064;1072:1064"
 						},
 						{
 							"_type": "UMLAssociationView",
@@ -11439,7 +11398,8 @@
 								"$ref": "AAAAAAGL7Q/hfCTDcxg="
 							},
 							"name": "historial; Memento[]",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						}
 					],
 					"operations": [
